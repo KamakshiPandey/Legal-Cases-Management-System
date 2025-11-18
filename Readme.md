@@ -52,7 +52,7 @@ The **Legal Cases Management System** is a web-based application designed to ass
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/RO-HIT17/Legal_Cases_Management_System.git
+https://github.com/KamakshiPandey/Legal-Cases-Management-System.git
 cd Legal_Cases_Management_System
 ```
 
